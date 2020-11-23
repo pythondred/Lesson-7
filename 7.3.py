@@ -1,3 +1,4 @@
+#r1
 class Cell:
     def __init__(self, quantity):
         self.quantity = int(quantity)
